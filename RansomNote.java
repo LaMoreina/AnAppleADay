@@ -3,8 +3,10 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-//Question: Will "HELP" and "help" map to the same index?
-//If so, need to account for the difference in case for this problem.
+//URL for this problem: https://www.hackerrank.com/challenges/ctci-ransom-note
+
+//Question: Will "HELP" and "help" map to the same index? NO
+
 
 public class RansomNoteProb {
 	
